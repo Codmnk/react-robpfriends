@@ -9,6 +9,8 @@
 # production
 #/build
 
+src/components/__snapshots__/
+
 # misc
 .DS_Store
 .env.local
