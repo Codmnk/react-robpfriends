@@ -22,7 +22,7 @@ jobs:
       - image: circleci/node:8.9
     steps:
       - checkout
-      - run: echo "Hellooooo!"
+      - run: echo "Hellooooo!"       
 workflows:
   version: 2
   build_test_and_lint:
